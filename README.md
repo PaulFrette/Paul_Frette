@@ -1,45 +1,45 @@
-# Bienvenue sur mon profil GitHub 👋
+# Welcome to My GitHub Profile 👋
 
-Je suis **Paul Fretté**, un Data Analyst passionné par la transformation des données en insights exploitables pour optimiser la prise de décision stratégique. Mon approche centrée sur l'humain me permet de comprendre les besoins des clients et de collaborer efficacement avec les équipes, en mettant l'accent sur le respect, l'adaptabilité et la résilience.
+I am **Paul Fretté**, a Data Analyst passionate about transforming data into actionable insights to optimize strategic decision-making. My human-centric approach enables me to understand clients' needs and collaborate effectively with teams, emphasizing respect, adaptability, and resilience.
 
-## Compétences Techniques 🛠️
+## Technical Skills 🛠️
 
-- **Analyse de données** : Expertise dans la transformation de données complexes en insights exploitables à l'aide d'outils tels que Power BI, Power Query et Excel.
-- **SQL & Gestion de bases de données** : Maîtrise de SQL pour l'extraction, la manipulation et l'analyse de données dans des environnements de data warehouse.
-- **Programmation** : Compétences en Python et R pour la manipulation de données et l'analyse statistique approfondie, adaptées aux besoins du marché.
+- **Data Analysis**: Expertise in transforming complex data into actionable insights using tools like Power BI, Power Query, and Excel.
+- **SQL & Database Management**: Proficient in SQL for data extraction, manipulation, and analysis in data warehouse environments.
+- **Programming**: Skills in Python and R for data manipulation and advanced statistical analysis tailored to market needs.
 
-## Compétences en Marketing et Gestion de Projet 📈
+## Marketing and Project Management Skills 📈
 
-- **Gestion de projet** : Capacité à mener des projets avec succès, en respectant les délais et les contraintes budgétaires.
-- **Communication** : Aptitude à communiquer clairement des idées et des stratégies à tous les intervenants.
-- **Stratégie de tarification** : Expertise dans la définition de stratégies de tarification alignées sur les objectifs stratégiques et les dynamiques du marché.
+- **Project Management**: Ability to successfully lead projects while adhering to deadlines and budget constraints.
+- **Communication**: Proficiency in clearly communicating ideas and strategies to all stakeholders.
+- **Pricing Strategy**: Expertise in defining pricing strategies aligned with strategic objectives and market dynamics.
 
-## Expérience Professionnelle 💼
+## Professional Experience 💼
 
 ### Signify Philips
 
-- **Chef de Produit** (2022 - 2023) : Gestion d'un portefeuille générant 41 millions d'euros de revenus avec 657 références produits. Augmentation du chiffre d'affaires du portefeuille de 5% pour 2023-2024.
-- **Ingénieur Commercial B2B** (2016 - 2022) : Gestion d'un secteur comprenant quatre départements, atteignant 3,4 millions d'euros de revenus avec une croissance de 24% en 2022. Gestion d'un portefeuille de 50 comptes clients diversifiés, y compris des décideurs clés, des utilisateurs finaux, des clients industriels et des distributeurs professionnels.
+- **Product Manager** (2022 - 2023): Managed a portfolio generating €41 million in revenue with 657 product references. Achieved a 5% revenue increase for 2023-2024.
+- **B2B Sales Engineer** (2016 - 2022): Managed a sector covering four departments, generating €3.4 million in revenue with 24% growth in 2022. Handled a diverse portfolio of 50 client accounts, including key decision-makers, end-users, industrial clients, and professional distributors.
 
-## Formation 🎓
+## Education 🎓
 
-- **Data Analytics** (Décembre 2024) : Collecte, extraction et transformation de données, maîtrise des KPI pour des tableaux de bord automatisés, programmation en Python, MySQL et R.
-- **Master en Ingénierie d'Affaires et Marketing Digital Stratégique** (IDRAC Business School, 2016 - 2018)
+- **Data Analytics** (December 2024): Expertise in data collection, extraction, and transformation; mastery of KPIs for automated dashboards; programming in Python, MySQL, and R.
+- **Master's in Business Engineering and Strategic Digital Marketing** (IDRAC Business School, 2016 - 2018)
 
-## Centres d'Intérêt 🎶🏄‍♂️
+## Interests 🎶🏄‍♂️
 
-- **Musique** : Pianiste spécialisé en Blues et Jazz, avec une expérience en composition musicale.
-- **Sports** : Kite-surf, randonnée et course à pied en compétition.
+- **Music**: Pianist specializing in Blues and Jazz with experience in musical composition.
+- **Sports**: Kite surfing, hiking, and competitive running.
 
-## Langues 🌍
+## Languages 🌍
 
-- **Anglais** : Maîtrise professionnelle (autodidacte via Babbel, niveau C1)
-- **Français** : Langue maternelle
+- **English**: Professional proficiency (self-taught via Babbel, C1 level)
+- **French**: Native speaker
 
 ## Contact 📬
 
-Je suis ouvert à des missions freelance et reste à l'écoute d'opportunités en contrat longue durée. N'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com) ou par email à paul.frette@gmail.com.
+I am open to freelance projects and long-term opportunities. Feel free to contact me via [LinkedIn](https://www.linkedin.com) or email me at paul.frette@gmail.com.
 
-Pour en savoir plus sur moi, consultez mon [profil Bento](https://bento.me/paul-frette).
+To learn more about me, check out my [Bento profile](https://bento.me/paul-frette).
 
-Merci de votre visite et au plaisir d'échanger avec vous !
+Thank you for visiting, and I look forward to connecting with you!
